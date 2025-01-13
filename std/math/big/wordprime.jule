@@ -136,7 +136,7 @@ fn probablyPrimeLucasW(mut n: []Word): bool {
 		}
 	}
 
-	// Grantham definition of "extra strong Lucas pseudoprime", after Thm 2.3 on p. 876
+	// Grantham definition of "extra strong Lucas pseudoprime", after Them 2.3 on p. 876
 	// (D, P, Q above have become Δ, b, 1):
 	//
 	// Let U_n = U_n(b, 1), V_n = V_n(b, 1), and Δ = b²-4.
